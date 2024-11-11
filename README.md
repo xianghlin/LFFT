@@ -20,7 +20,9 @@ data
 └── VeRi
     └── images ..
 ```
-### Pre-trained Models
-You need to download the ImageNet pretrained transformer model :[Vit-Base](https://github.com/rwightman/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth)
 ## Methods
+### Architecture
 ![architectue_new](https://github.com/user-attachments/assets/b102ebe5-fb02-42c5-aa70-ebefa43056f6)
+### Frequency Layer
+
+### JSPM
